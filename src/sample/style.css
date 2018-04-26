@@ -1,0 +1,32 @@
+#pane{
+    -fx-background-image: url("back.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: auto 900;
+    -fx-background-position: center center;
+}
+#pane0{
+    -fx-background-image: url("ground3.jpg");
+
+    -fx-background-size: auto 10;
+}
+#pane2{
+    -fx-background-image: url("Back1.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 1000 auto;
+    -fx-background-position: center center;
+}
+
+#pane3{
+    -fx-background-image: url("back3.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: auto 900;
+    -fx-background-position: center center;
+}
+#nickfield{
+    -fx-background-color: rgba(81, 49, 5, 0.52);
+}
+
+#ok{
+    -fx-background-color: rgba(0, 0, 81, 0.5);
+    -fx-text-fill: #9d9d9d;
+}
